@@ -1,0 +1,116 @@
+{
+    "ru.sh@yahoo.com": {
+        "name": "Ru",
+        "email": "ru.sh@yahoo.com",
+        "password": "scrypt:32768:8:1$22nQl4DR5XW2QzVj$4fb1692cf2d5a83524c825fe7780f3dbe278e28d7dcadcd2841e70775b25df14d5ba669a8a635dc62d1e8aba6383a9b17c2d9e792f5d2ec7ea030bedfe2c8d78",
+        "role": "Admin"
+    },
+    "ru.saah@yahoo.com": {
+        "name": "Ru",
+        "email": "ru.saah@yahoo.com",
+        "password": "scrypt:32768:8:1$ITqtipuGG8rcLTA1$4cb2f5c5cffa788c30d18dcb42b62b012b4b6176407d8cb4d8af34d52542706c82ae67f17de64ec0e19599b26a51d628de96566982ff05be4b8d809f1d5c64dc",
+        "role": "Admin"
+    },
+    "rusaah@yahoo.com": {
+        "name": "Ru",
+        "email": "rusaah@yahoo.com",
+        "password": "scrypt:32768:8:1$ZfRiHiBfgIvROlZs$a7a3ae4fd8c1bba2b02eaf498c1922a85aa1a0f7a92489f8912d185ea177614dacb5792769951ab6e2e4b8353f20f0662809d25e937f5a6189e09245776c8671",
+        "role": "Admin"
+    },
+    "rusa.jhyuyah@yahoo.com": {
+        "name": "Ru",
+        "email": "rusa.jhyuyah@yahoo.com",
+        "password": "scrypt:32768:8:1$SXlGZxXCEhPIDODZ$5f194fbc9cfb0ea48c422f256b78825dc7f38a1e901ff6cded90dead94a3ffb354dd33a434ac197b58085e9a9300cd8028b0ab6b4c38b6fe344ed9ea89d0de62",
+        "role": "Admin"
+    },
+    "yoo.yo@gmail.com": {
+        "name": "yoyoso",
+        "email": "yoo.yo@gmail.com",
+        "password": "scrypt:32768:8:1$XDCKtpvD2kzNVBJy$2850a62c233b9c95592e42fb4870614213c15b013628efa802c2fb0af6abd041f2853297868d154d1b98433c185af3048a3ee16ccb17ab6b9c63184f59b20c73",
+        "role": "Admin"
+    },
+    "rusha@gmail.com": {
+        "name": "Rusd",
+        "email": "rusha@gmail.com",
+        "password": "scrypt:32768:8:1$F1YVhAE27AwSf1wD$c446cdad10417faa3c30ac5f74c8b18ee5b979034467b388aa56310be85b2da37e9bc997af5c4c778735b3c124cbd863fc8285349a99c567777ad22698a232a7",
+        "role": "Admin"
+    },
+    "ru@yoo.com": {
+        "name": "Ruth Doe",
+        "email": "ru@yoo.com",
+        "password": "scrypt:32768:8:1$ZlEDuEYyTCluJS9S$885eac6314c096f6d09a073866e19555e5a284f445b3df918dcb475aa78b08d48b9612517ea34ffbf14e9b4278e57e556ea6ec7809c4867c3c0668847b87c121",
+        "role": "Admin"
+    },
+    "john@roo.com": {
+        "name": "John Doe",
+        "email": "john@roo.com",
+        "password": "scrypt:32768:8:1$hMPJ5Mx2pV4uvLJa$7090f02cf110f52ec16c10415dff60bddd73d6a25f8388f011c59c8978a16acf9b95b6a67344c3c7b84f3a44db0fd1bf94fd1edf8428201adf04844916fcf5eb",
+        "role": "Admin"
+    },
+    "jo@to.com": {
+        "name": "johan",
+        "email": "jo@to.com",
+        "password": "scrypt:32768:8:1$dhAUVEqtckJd4Xjg$3382c2aab9ca8b81e7fc62b83953757a23a91dd30da24f3a94c0b3ca50421282d44be91343e8fd3246ee2b69b696c96c2212aff035c6c3993fec798302d39d99",
+        "role": "Admin"
+    },
+    "ooo@kk.com": {
+        "name": "okokok",
+        "email": "ooo@kk.com",
+        "password": "scrypt:32768:8:1$ThhQgd8TPk9nYQmK$a51c5889576e5ea7da06afc61f3a752f48c6cb2b72cb763e495c3938bf9cc8bc8e58168213a242416eb694371f66c4971b7699ab1a57bd292b3cefa6c73f4db3",
+        "role": "Admin"
+    },
+    "john@ok.com": {
+        "name": "John oookk",
+        "email": "john@ok.com",
+        "password": "scrypt:32768:8:1$BlHOc5FeIjISEV5g$f108964522c74b99a628e8b0703d7af0f51bfe425e51e21cedfc9c4f4611cd2f0eab8d7be746a8fb5aebef214e4a886bd5b93b2712c190ef7589f0e57d977a96",
+        "role": "Admin"
+    },
+    "ruu@ruu.com": {
+        "name": "rrr",
+        "email": "ruu@ruu.com",
+        "password": "scrypt:32768:8:1$ryebuNT6X6FQiUDI$c263d365a870d1dac768535dc60547beff9887712d0f285665a6a4a21bcecf538ace8bb5084e8808b157b5c830640b6b0388757d5ee74965d8f08844bb951274",
+        "role": "Admin"
+    },
+    "ruhani@amoni.com": {
+        "name": "Roohi",
+        "email": "ruhani@amoni.com",
+        "password": "scrypt:32768:8:1$j6XVblUDz2EY8zy4$3786053291080fb0f899e3d93c92750ac1da96ed43c04c0d0acd2685399513002d8b77dedecd7d44a42c5bc4473cd58546773b37423e33ca8a5f18678ddf3beb",
+        "role": "User"
+    },
+    "ooo@ppp.com": {
+        "name": "Ruuusaa",
+        "email": "ooo@ppp.com",
+        "password": "scrypt:32768:8:1$ed8WuE1WT8qZJcPb$dd69f85801b85b74f54bf3a84dfc4314530a543ea9f585d0809501f2503288841954aa963a7539c9dd2325674926bfd6ec385fc2eddf6d8488365c12b236b21e",
+        "role": "Admin"
+    },
+    "aaa@bbb.com": {
+        "name": "aaabbb",
+        "email": "aaa@bbb.com",
+        "password": "scrypt:32768:8:1$hwWsZwVpUB99xvIW$38455757bb29d20602614bf9f24c6905d475e9c1fcbc10d925b93812fc5c16a93d956948f60f814cb86a096a1ec8a5f6e495a5b489374ed0bf64ea09e7927be7",
+        "role": "User"
+    },
+    "nnn@ooo.com": {
+        "name": "nooooooooo",
+        "email": "nnn@ooo.com",
+        "password": "scrypt:32768:8:1$LqgkJMELupSYcqvb$32c328f351c16c7543f148564b7de79620860964cca8321a66588cf9da51fab18fcf74c2b53b18c7582d5bcf15f7934b05e67893e3489334ba24a7264c5972bb",
+        "role": "Admin"
+    },
+    "ruu@tuu.com": {
+        "name": "string",
+        "email": "ruu@tuu.com",
+        "password": "scrypt:32768:8:1$bRIKbD8LFmHlMbOM$a16e95abb4c1458eb77af33018b4f11a458b973270c524f6ff3b94a2e519a1ee90188a6c160b8e34e8397674640ef5a1d79b97889ddfbf0066819d47f67d3216",
+        "role": "Admin"
+    },
+    "rumaly@bracu.ac.bd": {
+        "name": "RUBAYET SHAREEN",
+        "email": "rumaly@bracu.ac.bd",
+        "password": "scrypt:32768:8:1$k0ehDKr536cnDXsl$cae0c268c40041113f6e60ae400457b1453ae0796cbee3d55b01e617186f25407adc5af465eb998476aee7248d5aed2c9253315e26a94cbea05b04cb7dd0f20a",
+        "role": "Admin"
+    },
+    "too@too.com": {
+        "name": "toooo",
+        "email": "too@too.com",
+        "password": "scrypt:32768:8:1$miXA5bSINf6gEJnE$7f9fe0fbb6fa1cb61785e3bef5e6066a8fd1f0fb0bf60c853e9ecf938de20809660765647b15172aa862f9e8baa9acc9b93ffb16bfaab8663dc96c70832df817",
+        "role": "Admin"
+    }
+}
