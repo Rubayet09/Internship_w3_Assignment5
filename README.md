@@ -100,11 +100,21 @@ Microservices Overview
 ## Swagger UIs Interface
 1. Ensure all the urls are running.
 - User Service API 
-    - Navigate to the user_service page
+    - Navigate to the user_service page.
     - Register yourself as an Admin/User.
-    ** Login using the registered email and password
-    ** Upon login you will get a token to authenticate yourself
-    ** Authorize yourself using the token and Get your profile information 
+    - LOGIN using the registered email and password.
+    - Upon login you will get a TOKEN to authenticate yourself.
+    - Authorize yourself using the token and GET your profile information. 
+- Destination Service API 
+    - Navigate to the destination_service page.
+    - GET the destinations(view the list of destinations).
+    - Authorize yourself as an Admin/User.
+    - POST destinations- Admin only.
+    - DELETE destination by their ID- Admin only.
+- Authentication Service API 
+    - Ensure Admins have access to specific actions.
+    - Validates authorization.
+    
 
 
 ## Running the tests
