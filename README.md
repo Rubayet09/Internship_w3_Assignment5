@@ -99,7 +99,7 @@ Microservices Overview
 
 ## Swagger UIs Interface
 1. Ensure all the urls are running.
--User Service API 
+- User Service API 
     - Navigate to the user_service page
     - Register yourself as an Admin/User.
     ** Login using the registered email and password
