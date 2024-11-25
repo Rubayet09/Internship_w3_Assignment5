@@ -77,7 +77,7 @@ Microservices Overview
 - ./tests - contains all the unittests that are used to evaluate the code in ./src folder
 - ./htmlcov/index.html - contains the code coverage report
 
-## Pre-requisites
+## Steps to run the Project
 1. Clone the git repository.
 2. Navigate to the root directory of the project.
 3. Run the following command to install the required packages.
@@ -96,6 +96,15 @@ Microservices Overview
     - [Destination Service API - localhost:5001/apidocs](http://localhost:5001/apidocs)
 
     If not running, please start from step 1 and make sure that these files run accordingly.
+
+## Swagger UIs Interface
+1. Ensure all the urls are running.
+-User Service API 
+    ** Navigate to the user_service page
+    ** Register yourself as an Admin/User.
+    ** Login using the registered email and password
+    ** Upon login you will get a token to authenticate yourself
+    ** Authorize yourself using the token and Get your profile information 
 
 
 ## Running the tests
