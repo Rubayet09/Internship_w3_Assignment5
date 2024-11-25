@@ -1,11 +1,11 @@
-# W3 Engineers Project on Flask
+# Assignment-5 on Python/Flask
 ---
 
-This is a basic Travel API based multiple microservices using Flask. Each microservice will handle a distinct function, such as managing destinations, handling user accounts and authentication.
+This is a basic Travel API based multiple microservices developed using Flask. Each microservice will handle a distinct function, such as managing destinations, handling user accounts and authentication.
 
 Microservices Overview
 1. Destination Service
-    - Manages travel destinations, including deleting, and viewing destination details.
+    - Manages travel destinations, including posting/deleting(Admin only), and viewing destination details.
 2. User Service
     - Handles user registration, authentication, and profile management.
 3. Authentication Service
@@ -77,7 +77,7 @@ Microservices Overview
 - ./tests - contains all the unittests that are used to evaluate the code in ./src folder
 - ./htmlcov/index.html - contains the code coverage report
 
-## Re-requisites
+## Pre-requisites
 1. Clone the git repository.
 2. Navigate to the root directory of the project.
 3. Run the following command to install the required packages.
@@ -116,5 +116,6 @@ TOTAL                             165     20    88%
 ## Author
 Rubayet Shareen
 
-Software Intern, W3 Engineers Ltd.
+Software Engineer Intern, 
+W3 Engineers Ltd.
 
